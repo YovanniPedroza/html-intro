@@ -1,0 +1,125 @@
+.caja1 {
+    width: 400px;
+    height: 1400px;
+    background-color: white;
+    border: 1px; color: #0e0c0c;
+    padding: 40px;
+    text-align: center;
+    font-size: medium;
+    margin: 100px;
+    position:absolute;
+        left: 150px;
+        top: -100px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    }
+
+.caja2 {
+        width: 1200px;
+        height: 1400px;
+        background-color: rgb(91, 196, 154);
+        border: 1px; color: #0e0d0d;
+        padding: 40px;
+        text-align:center;
+        font-size: 50px;
+        margin: 150px;
+        position:absolute;
+        left: 580px;
+        top: -150px;
+        font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif
+        }
+
+.foto {
+    width: 280px;
+    height: 330px;
+    position: CENTER;
+    left: 96px;    
+}
+.img{
+    width: 100px;
+    height: 100px;
+    }
+.caja3{
+        width: 50px;
+        height: 25px;
+        background-color: rgb(245, 247, 246);
+        border: 1px; color: #0e0d0d;
+        position:relative;
+        left: 260px;
+        top: 480px;        
+}
+.img2{
+    width: 30px;
+    height: 30px;
+    position: absolute;
+    left: 10px;    
+    top: -2px;
+        }
+.img3{
+    width: 50px;
+    height: 50px;
+            }
+
+.caja4 {
+        width: 50px;
+        height: 25px;
+        background-color: white;
+        border: 1px; color: #0e0d0d;
+        position:relative;
+        left: 320px;
+        top: 500px;
+}
+
+.caja5{
+    width: 50px;
+        height: 25px;
+        background-color: white;
+        border: 1px; color: #0e0d0d;
+        position:relative;
+        left: 320px;
+        top: 530px;
+}
+
+.subtitulo{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color:rgb(10, 126, 89);
+    font-size: 30px;
+    }
+.linea{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color:rgb(5, 49, 18);
+    font-size: 20px;
+}
+.INFO-PERSONAL{
+        width: 600px;
+        height: 50px;
+        background-color: white;
+        border: 1px; color: #0e0d0d;
+        position:relative;
+        left: 100px;
+        top: 80px;  
+}
+.parrafo{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color:rgb(20, 20, 20);
+    font-size: 30px;
+    text-align: justify;
+}
+.EDUCACION{
+    width: 600px;
+    height: 50px;
+    background-color: white;
+    border: 1px; color: #0e0d0d;
+    position:relative;
+    left: 100px;
+    top: 20px;  
+}
+
+.EXPERIENCIA{
+    width: 600px;
+    height: 50px;
+    background-color: white;
+    border: 1px; color: #0e0d0d;
+    position:relative;
+    left: 100px;
+    top: 20px;  
+}
